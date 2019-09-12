@@ -1,0 +1,5 @@
+<library path="lib/libpso_ros">
+  <class name="Pso_pot_planner/PsoPotPlannerROS" type="Pso_pot_planner::PsoPotPlannerROS" base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is Particle Swarm Optimizer with Potential functions based global path planner plugin for use with move_base pkg in ROS.</description>
+  </class>
+</library>
